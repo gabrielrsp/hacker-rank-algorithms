@@ -8,13 +8,10 @@
 // apples: array de distancias da maças ate a macieira 3
 // orange: array de distancias da laranja ate a larangeira 2
 
-
 // saida1: numero de maças dentro do intervalo da casa
 // saida2: numero  de laranjas dentro do intervalo da casa
 
 // function countApplesAndOranges(s, t, a, b, apples, oranges) 
-
-// testS
 
 countApplesAndOranges(7, 11, 5, 15, [-2, 2, 1], [5, -6])
 
